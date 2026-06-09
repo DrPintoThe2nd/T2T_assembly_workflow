@@ -3,7 +3,7 @@ Repo for the development of a T2T assembly workflow
 
 
 
-Assembly using hifiasm
+Assembly using hifiasm + verkko
 
 gfatools -> seqkit sort -> bgzip -> QC (SCINKD/assembly-stats/compleasm/ntSynt) -> Align HiC/PretextMap 
 
