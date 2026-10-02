@@ -1,4 +1,4 @@
-# T2T_assembly_workflow
+# T2T_assembly_workflow(s)
 
 Not meant for external use at this time.
 
