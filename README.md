@@ -1,4 +1,7 @@
 # T2T_assembly_workflow
+
+Not meant for external use at this time.
+
 Repo for the development of a current haplotype-resolved genome assembly workflow
 
 
